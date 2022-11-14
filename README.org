@@ -11,3 +11,9 @@ The icons here was adapted from [[https://github.com/company-mode/company-mode][
 * Usage
 
 Clone this repository to ~.emacs.d/.cache/svg-lib/~
+
+* Preview the icons
+~M-x kind-icon-reset-cache~
+~M-x kind-icon-preview-all~
+
+You will see the preview of all the icons.
