@@ -1,0 +1,9 @@
+#+title: vscode icons for Corfu
+#+author: Eason Huang
+
+The icons in this repository have been made by "Microsoft and any contributors", see the [[https://github.com/microsoft/vscode-icons/][vscode-icons]] for details.
+
+They are distributed under Creative Commons Attribution 4.0 International Public
+License, see the LICENSE file in this repository.
+
+The icons here was adapted from [[https://github.com/company-mode/company-mode][company-mode]], only change the names of icons to make them work with [[https://github.com/jdtsmith/kind-icon][kind-icon]], which enhance the [[https://github.com/minad/corfu][Corfu]] to use colorful icons.
